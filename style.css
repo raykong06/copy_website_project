@@ -2,6 +2,8 @@ nav {
     background-color: #041d42;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+    font-size: 12px;
 }
 
 #navbar {
