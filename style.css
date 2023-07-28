@@ -1,0 +1,26 @@
+nav {
+    background-color: #041d42;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navbar {
+    color: whitesmoke;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navbarimg {
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    rotate: -20deg;
+}
+
+#accountimg {
+    height: 30px;
+    margin-left: 15px;
+    filter: invert(1);
+}
+
